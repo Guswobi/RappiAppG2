@@ -1,6 +1,6 @@
 # proyecto
 
-Proyecto final diplomado
+Aplacacion para tiendas de Barrio
 
 ## Getting Started
 
